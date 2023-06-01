@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Petronus Challenge</string>
+    <string name="device_holders">Device holders</string>
+    <string name="error_message">Something went wrong. Please try again</string>
+</resources>
