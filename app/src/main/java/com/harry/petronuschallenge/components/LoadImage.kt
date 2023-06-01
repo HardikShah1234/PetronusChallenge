@@ -22,6 +22,10 @@ import coil.size.Size
 import com.harry.petronuschallenge.ui.theme.BackgroundWhiteShade
 import com.harry.petronuschallenge.ui.theme.Typography
 
+/**
+ * This composable is responsible for loading the image from url fetched from api.
+ * If url is null or not having image then first initials of the First name and Last name will be displayed.
+ */
 @Composable
 fun LoadImage(
     url: String?,

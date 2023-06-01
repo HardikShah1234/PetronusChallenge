@@ -6,6 +6,9 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.Dp
 
+/**
+ * Used when vertical space as per the height is required.
+ */
 @Composable
 fun VerticalSpacer(height: Dp) {
     Spacer(modifier = Modifier.height(height))

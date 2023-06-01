@@ -19,6 +19,9 @@ import com.harry.petronuschallenge.ui.theme.Blue
 import com.harry.petronuschallenge.ui.theme.Typography
 import com.harry.petronuschallenge.ui.theme.White
 
+/**
+ * Reusable app bar which is used in every screen as per design.
+ */
 @Composable
 fun AppBar(
     modifier: Modifier,

@@ -7,6 +7,9 @@ import androidx.navigation.compose.composable
 import com.harry.petronuschallenge.views.DeviceHolderDetailsScreen
 import com.harry.petronuschallenge.views.DeviceHolderListScreen
 
+/**
+ * Navigation graph for all the Composable.
+ */
 @Composable
 fun SetUpNavController(
     controller: NavHostController,

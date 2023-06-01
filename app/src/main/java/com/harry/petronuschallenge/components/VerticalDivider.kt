@@ -9,6 +9,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.harry.petronuschallenge.ui.theme.Gray
 
+/**
+ * Vertical Divider - Separator.
+ */
 @Composable
 fun VerticalDivider() {
     Box(

@@ -14,6 +14,9 @@ import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
+/**
+ * ViewModel for fetching the details of the user.
+ */
 @HiltViewModel
 class DeviceHolderDetailsViewModel @Inject constructor(
     private val repository: DeviceHolderDetailsRepository,

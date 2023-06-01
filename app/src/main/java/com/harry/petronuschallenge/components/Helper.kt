@@ -15,7 +15,9 @@ import com.harry.petronuschallenge.ui.theme.BackgroundPinkShade
 import com.harry.petronuschallenge.ui.theme.GrayShade
 import com.harry.petronuschallenge.ui.theme.Typography
 
-
+/**
+ * Display the list of stickers.
+ */
 @Composable
 fun DisplayStickers(
     item: List<String>,

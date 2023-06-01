@@ -12,6 +12,9 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.harry.petronuschallenge.ui.theme.Typography
 
+/**
+ * Reusable error screen which displays error message.
+ */
 @Composable
 fun ErrorScreen(errorMessage: String) {
     Column(
