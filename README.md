@@ -1,6 +1,6 @@
 # PetronusChallenge
  
-App Displays the Device Holder screen scrollable list and device holders details. Data fetched from the API.
+App Displays the Device Holder screen and device holders details screen. Data fetched from the API.
 
 # Tech Stack
 
